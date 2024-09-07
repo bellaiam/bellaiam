@@ -1,3 +1,5 @@
+![Angel-Landing](https://github.com/bellaiam/bellaiam/blob/main/angel.jpg)
+
 # Hello, I'm Bella 👋
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/bellaiam/)
 
