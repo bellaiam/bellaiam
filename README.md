@@ -49,3 +49,11 @@ I'm a Software Engineer with experience in DevOps and SRE, driven by a growth mi
 [![AWS S3](https://img.shields.io/badge/AWS-S3-orange)](https://aws.amazon.com/s3/)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=flat-square)
 [![Firebase](https://img.shields.io/badge/Firebase-orange)](https://firebase.google.com/)
+
+## Projects
+### Inspiration Board - [Front End](https://github.com/red-med/front-end-inspiration-board) | [Backend End](https://github.com/bellaiam/back-end-inspiration-board)
+- **Tech stack:** Flask, PostgreSQL, SQLAlchemy, React, Python, Javascript, HTML/CSS, deployed on Heroku
+- Collaborated in a 3-person team to design and create an interactive web application that enabled users to post inspirational messages to a board owned by multiple individuals
+- Led the front-end design and development of a React-based web application, utilizing Props and Hooks to implement user interface while following the industry best practices and standards
+- Implemented test-driven development using Pytest and fixtures to rigorously validate board and card creation and retrieval routes, ensuring code reliability.
+- 
