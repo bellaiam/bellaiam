@@ -66,3 +66,7 @@ I'm a Software Engineer with experience in DevOps and SRE, driven by a growth mi
 - make a web API to organize our tasks, we'll be able to create, read, update, and delete tasks as long as we have access to the Internet and our API is running!
 - additional interesting features with our tasks: Sort tasks, mark them as complete, get feedback about our task list through Slack, 
 organize tasks with goals and more!
+
+### [Weather Report](https://github.com/bellaiam/weather-report)
+- fun, small weather app that focuses on displaying the weather.
+- weather app will set the weather using user interaction and get the weather from a 3rd party API, OpenWeather.
