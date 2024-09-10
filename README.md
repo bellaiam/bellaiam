@@ -58,4 +58,5 @@ I'm a Software Engineer with experience in DevOps and SRE, driven by a growth mi
 - Implemented test-driven development using Pytest and fixtures to rigorously validate board and card creation and retrieval routes, ensuring code reliability.
   
 ### React-chatlog [Front End](https://github.com/bellaiam/react-chatlog)
+**Tech stack:** React, Python, Javascript, HTML/CSS, deployed on Heroku
 - a chat messenger-style application that displays a log of chat messages between two people, using static data from a JSON file, build user interaction with a like feature.
