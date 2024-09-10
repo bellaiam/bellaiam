@@ -60,3 +60,9 @@ I'm a Software Engineer with experience in DevOps and SRE, driven by a growth mi
 ### React-chatlog [Front End](https://github.com/bellaiam/react-chatlog)
 **Tech stack:** React, Python, Javascript, HTML/CSS, deployed on Heroku
 - a chat messenger-style application that displays a log of chat messages between two people, using static data from a JSON file, build user interaction with a like feature.
+
+### Task List [Front End](https://github.com/bellaiam/task-list-front-end)
+- we organize our goals into smaller, bite-sized tasks, we'll be able to track them more easily, and complete them!
+- make a web API to organize our tasks, we'll be able to create, read, update, and delete tasks as long as we have access to the Internet and our API is running!
+- additional interesting features with our tasks: Sort tasks, mark them as complete, get feedback about our task list through Slack, 
+organize tasks with goals and more!
