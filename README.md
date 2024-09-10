@@ -57,5 +57,5 @@ I'm a Software Engineer with experience in DevOps and SRE, driven by a growth mi
 - Led the front-end design and development of a React-based web application, utilizing Props and Hooks to implement user interface while following the industry best practices and standards
 - Implemented test-driven development using Pytest and fixtures to rigorously validate board and card creation and retrieval routes, ensuring code reliability.
   
-### React-chatlog [React-Chatlog](https://github.com/bellaiam/react-chatlog)
+### React-chatlog [Front End](https://github.com/bellaiam/react-chatlog)
 - a chat messenger-style application that displays a log of chat messages between two people, using static data from a JSON file, build user interaction with a like feature.
