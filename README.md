@@ -67,7 +67,10 @@ I'm a Software Engineer with experience in DevOps and SRE, driven by a growth mi
 - Collaborated in a 3-person team to design and create an interactive web application that enabled users to post inspirational messages to a board owned by multiple individuals
 - Led the front-end design and development of a React-based web application, utilizing Props and Hooks to implement user interface while following the industry best practices and standards
 - Implemented test-driven development using Pytest and fixtures to rigorously validate board and card creation and retrieval routes, ensuring code reliability.
-  
+
+### Creatures game - [Creature game](https://github.com/bellaiam/creatures)
+- Creatures represents a graphical simulation of a 2D world of animals
+- 
 ### React-chatlog [Front End](https://github.com/bellaiam/react-chatlog)
 **Tech stack:** React, Python, Javascript, HTML/CSS, deployed on Heroku
 - a chat messenger-style application that displays a log of chat messages between two people, using static data from a JSON file, build user interaction with a like feature.
