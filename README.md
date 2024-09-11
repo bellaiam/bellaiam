@@ -6,7 +6,7 @@
 I'm a Software Engineer with experience in DevOps and SRE, driven by a growth mindset. I enjoy developing applications that address real-world problems and leveraging data to gain insights and guide decision-making. I'm always eager to bring fresh ideas and technical excellence to new projects.
 
 - 🌱 Currently, I’m learning TensorFlow and working on EduGenius, an educational platform offering personalized experiences. 
-- ✨ I recently developed a Single Page Application (SPA) using Java, Spring Boot, Spring Security, React, and Thymeleaf. Check it out: SPA.
+- ✨ I recently developed a Single Page Application (SPA) using Java, Spring Boot, Spring Security, React, and Thymeleaf. Check it out: [SPA](https://github.com/bellaiam/SPA).
 
 - 💬 Feel free to ask me anything! I have a wealth of random facts across various subjects and love sharing what I know.
 
