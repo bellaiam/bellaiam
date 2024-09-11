@@ -51,6 +51,17 @@ I'm a Software Engineer with experience in DevOps and SRE, driven by a growth mi
 [![Firebase](https://img.shields.io/badge/Firebase-orange)](https://firebase.google.com/)
 
 ## Projects
+### SPA - [SPA Salon Application](https://github.com/bellaiam/SPA)
+- **Tech stack:** Java, SpringBoot, SpringSecurity, Maven, POM, Javascript, HTML/CSS, MySQL databases
+- This project is a web application for managing spa salon services, featuring:
+- Sign-in Page: User authentication with account creation and password recovery.
+- Client Database: Stores client information, service history, and preferences.
+- Reservation System: Clients can book appointments, view available time slots, and receive notifications.
+- Service Catalog: Displays spa services, prices, and booking options.
+- Staff Management: Manages staff schedules and availability.
+- Payment Integration: Supports online payments for services.
+- Reviews: Allows clients to leave feedback and rate their experience.
+
 ### Inspiration Board - [Front End](https://github.com/red-med/front-end-inspiration-board) | [Backend End](https://github.com/bellaiam/back-end-inspiration-board)
 - **Tech stack:** Flask, PostgreSQL, SQLAlchemy, React, Python, Javascript, HTML/CSS, deployed on Heroku
 - Collaborated in a 3-person team to design and create an interactive web application that enabled users to post inspirational messages to a board owned by multiple individuals
