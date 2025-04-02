@@ -3,7 +3,7 @@
 # Hello, I'm Bella 👋
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/bellaiam/)
 
-I'm a Software Engineer with experience in DevOps and SRE, driven by a growth mindset. I enjoy developing applications that address real-world problems and leveraging data to gain insights and guide decision-making. I'm always eager to bring fresh ideas and technical excellence to new projects.
+I’m a software engineer with experience in backend development, DevOps, and SRE, driven by a growth mindset. I enjoy building scalable applications that solve real-world problems, leveraging data-driven insights to guide decision-making.
 
 - 🌱 Currently, I’m learning TensorFlow and working on EduGenius, an educational platform offering personalized experiences. 
 - ✨ I recently developed a Single Page Application (SPA) using Java, Spring Boot, Spring Security, React, and Thymeleaf. Check it out: [SPA](https://github.com/bellaiam/SPA).
