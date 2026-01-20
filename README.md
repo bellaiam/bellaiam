@@ -3,10 +3,12 @@
 # Hello, I'm Bella 👋
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/bellaiam/)
 
-I’m a software engineer with experience in backend development, DevOps, and SRE, driven by a growth mindset. I enjoy building scalable applications that solve real-world problems, leveraging data-driven insights to guide decision-making.
+I’m a software engineer with experience in backend development, DevOps, and SRE, driven by a growth mindset. I enjoy building scalable applications and data-driven tools that solve real-world problems.
 
-- 🌱 Currently, I’m learning TensorFlow and working on EduGenius, an educational platform offering personalized experiences. 
-- ✨ I recently developed a Single Page Application (SPA) using Java, Spring Boot, Spring Security, React, and Thymeleaf. Check it out: [SPA](https://github.com/bellaiam/SPA).
+🌱 Currently exploring AI/ML with TensorFlow and developing EduGenius, an educational platform offering personalized learning experiences.
+
+✨ Recent project: [Bio-Optimizer AI](https://github.com/bellaiam/bio-optimizer-ai) – a tool that analyzes lab PDFs, visualizes biomarker systems, and provides plain-language health insights using Python, Streamlit, Plotly, and AI/LLMs. 
+💬 I enjoy connecting with fellow engineers, data enthusiasts, and anyone curious about building practical AI solutions.
 
 - 💬 Feel free to ask me anything! I have a wealth of random facts across various subjects and love sharing what I know.
 
@@ -21,6 +23,7 @@ I’m a software engineer with experience in backend development, DevOps, and SR
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square)
 - **Backend:**
+![Clojure](https://img.shields.io/badge/-Clojure-5881D8?style=flat-square&logo=Clojure&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
@@ -31,6 +34,13 @@ I’m a software engineer with experience in backend development, DevOps, and SR
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white&style=flat-square)
 ![REST API](https://img.shields.io/badge/-REST%20API-007ACC?style=flat-square)
+- **Data & Workflow:**
+![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-0CCAFF?style=flat-square&logo=Snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF796C?style=flat-square&logo=dbt&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-1797C0?style=flat-square&logo=Airtable&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
 
 
 - **Testing:** 
@@ -51,6 +61,14 @@ I’m a software engineer with experience in backend development, DevOps, and SR
 [![Firebase](https://img.shields.io/badge/Firebase-orange)](https://firebase.google.com/)
 
 ## Projects
+### [Bio-Optimizer AI](https://github.com/bellaiam/bio-optimizer-ai) 
+- **Tech stack:** Python, Streamlit, Plotly, pdfplumber, Google Gemini (LLM)
+- A systems-based health analysis tool that reads lab report PDFs and extracts biomarker values.
+- Visualizes lab results by system and provides clear, plain-language explanations of what’s high, low, or suboptimal.
+- Suggests actionable lifestyle improvements (nutrition, movement, sleep, stress management) — all educational, no medical advice.
+- Fully local and private: user data stays on their machine.
+- Great example of bridging biomedical science knowledge with software development and AI/ML.
+  
 ### SPA - [SPA Salon Application](https://github.com/bellaiam/SPA)
 - **Tech stack:** Java, SpringBoot, SpringSecurity, Maven, POM, Javascript, HTML/CSS, MySQL databases
 - This project is a web application for managing spa salon services, featuring:
