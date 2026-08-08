@@ -8,7 +8,7 @@ I’m a software engineer with experience in backend development, DevOps, and SR
 🌱 Currently exploring AI/ML with TensorFlow and developing EduGenius, an educational platform offering personalized learning experiences.
 
 ✨ Recent project:
-MediBridge – a healthcare document exchange platform built with Python, FastAPI, PostgreSQL, Docker, and AWS.
+[MediBridge] (https://github.com/MediBridge-App/MediBridge) – a healthcare document exchange platform built with Python, FastAPI, PostgreSQL, Docker, and AWS.
 [Bio-Optimizer AI](https://github.com/bellaiam/bio-optimizer-ai) – a tool that analyzes lab PDFs, visualizes biomarker systems, and provides plain-language health insights using Python, Streamlit, Plotly, and AI/LLMs. 
 💬 I enjoy connecting with fellow engineers, data enthusiasts, and anyone curious about building practical AI solutions.
 
