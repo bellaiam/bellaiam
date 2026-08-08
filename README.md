@@ -19,7 +19,7 @@ I transitioned into software engineering through Ada Developers Academy, where I
 
 - 💬 Feel free to ask me anything! I have a wealth of random facts across various subjects and love sharing what I know.
 
-- ⚡ Facts about me: I’m an enthusiastic hiker and a passionate baker. One of the most scariest and breathtaking hikes I’ve completed was Angel’s Landing at Zion National Park, which I tackled in March 2020 at the onset of the COVID-19 pandemic. I also enjoy experimenting with new recipes from different cultures, with tiramisu cake being a favorite among my family and friends.
+- ⚡ Facts about me: I’m an enthusiastic hiker and a passionate baker. One of the most scariest and breathtaking hikes I’ve completed was Angel’s Landing at Zion National Park, which I tackled in March 2020 at the onset of the COVID-19 pandemic. I also enjoy experimenting with new recipes from different cultures, with tiramisu and honey cake being a favorite among my family and friends.
 
 ## Technologies
 - **Frontend:**
