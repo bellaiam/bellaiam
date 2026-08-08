@@ -68,6 +68,16 @@ I transitioned into software engineering through Ada Developers Academy, where I
 [![Firebase](https://img.shields.io/badge/Firebase-orange)](https://firebase.google.com/)
 
 ## Projects
+### [MediBridge](https://github.com/MediBridge-App/MediBridge)
+- **Tech stack:** Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, AWS S3, AWS ECR, AWS ECS/Fargate, Docker
+- Healthcare document exchange platform designed to securely send, receive, store, and track medical documents between organizations.
+- Developed backend APIs for document management, authentication, organizations, users, document status tracking, and search.
+- Implemented secure file uploads and downloads using AWS S3 presigned URLs while storing document metadata in PostgreSQL.
+- Built document workflows with status tracking, notifications, and audit logs.
+- Added AI analysis functionality for document summaries, tags, urgency detection, confidence scores, and processing metrics.
+- Containerized the FastAPI backend with Docker and deployed it to AWS using ECR and ECS/Fargate.
+- Collaborated with frontend and product team members to align API responses, database values, and application requirements.
+
 ### [Bio-Optimizer AI](https://github.com/bellaiam/bio-optimizer-ai) 
 - **Tech stack:** Python, Streamlit, Plotly, pdfplumber, Google Gemini (LLM)
 - A systems-based health analysis tool that reads lab report PDFs and extracts biomarker values.
