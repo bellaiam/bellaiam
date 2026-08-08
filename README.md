@@ -3,14 +3,19 @@
 # Hello, I'm Bella 👋
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/bellaiam/)
 
-I’m a software engineer with experience in backend development, DevOps, and SRE, driven by a growth mindset. I enjoy building scalable applications and data-driven tools that solve real-world problems.
+I’m a software engineer with a background in healthcare and biomedical research and experience across backend development, SRE, and data platforms. I enjoy building software that solves practical problems and learning how systems work from development through deployment.
 
-🌱 Currently exploring AI/ML with TensorFlow and developing EduGenius, an educational platform offering personalized learning experiences.
+I transitioned into software engineering through Ada Developers Academy, where I’ve built full-stack and backend applications and worked with technologies including Python, FastAPI, React, PostgreSQL, Docker, and AWS.
 
-✨ Recent project:
-[MediBridge] (https://github.com/MediBridge-App/MediBridge) – a healthcare document exchange platform built with Python, FastAPI, PostgreSQL, Docker, and AWS.
-[Bio-Optimizer AI](https://github.com/bellaiam/bio-optimizer-ai) – a tool that analyzes lab PDFs, visualizes biomarker systems, and provides plain-language health insights using Python, Streamlit, Plotly, and AI/LLMs. 
-💬 I enjoy connecting with fellow engineers, data enthusiasts, and anyone curious about building practical AI solutions.
+🌱 Currently exploring AI/ML with TensorFlow and developing EduGenius, an educational platform focused on personalized learning experiences.
+
+✨ Recent projects:
+
+- [MediBridge](https://github.com/MediBridge-App/MediBridge) – a healthcare document exchange platform built with Python, FastAPI, PostgreSQL, Docker, and AWS.
+
+- [Bio-Optimizer AI](https://github.com/bellaiam/bio-optimizer-ai) – a tool that analyzes lab PDFs, visualizes biomarker systems, and provides plain-language health insights using Python, Streamlit, Plotly, and AI/LLMs.
+  
+- 💬 I enjoy connecting with fellow engineers, data enthusiasts, and anyone curious about building practical AI solutions.
 
 - 💬 Feel free to ask me anything! I have a wealth of random facts across various subjects and love sharing what I know.
 
